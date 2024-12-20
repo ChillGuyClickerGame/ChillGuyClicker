@@ -1,4 +1,7 @@
 # Chill Guy Clicker: Perfect Idle Game for Stress Relief 
+
+![banner](chill-guy-clicker-banner.jpg)
+
 Welcome to [Chill Guy Clicker](http://chillguyclicker.games/)! Build your chill empire with relaxing clicks, unlock cool upgrades, and enjoy endless fun. Perfect for stress relief!
 ## How to Play Chill Guy Clicker: A Step-by-Step Guide
 ### Step 1: Start Clicking
